@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyurow or you can call me Fikhar
+- 👋 Hi, I’m @Kyurow or you can call me Owlen
 - 👀 I’m interested in Photoshopp
 - 🌱 I’m Information Technology Student
 - 💞️ I’m looking to collaborate on Github or whatever
