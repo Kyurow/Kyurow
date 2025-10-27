@@ -11,9 +11,12 @@ Here's my skill on IT field:
   </a>
 </p>
 
-
 Im expert on:
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,blender&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ae,pr,ai,blender" />
+  </a>
+</p>
 
 <!---
 Kyurow/Kyurow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
