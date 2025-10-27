@@ -11,7 +11,7 @@ Here's my skill on IT field:
   </a>
 </p>
 
-Im expert on:
+<p align="center"> Im expert on: </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ae,pr,ai,blender" />
