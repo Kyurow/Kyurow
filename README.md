@@ -5,7 +5,12 @@
 - 📫 You can reach me on instagram @imkyurow_
 - 👨‍💻 Web development | Data science | Cyber security enthusiast!
 Here's my skill on IT field:
-[![My Skills](https://skillicons.dev/icons?i=kali,css,html,nextjs,react,python,postgres&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,css,html,nextjs,react,python,postgres" />
+  </a>
+</p>
+
 
 Im expert on:
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,blender&perline=3)](https://skillicons.dev)
