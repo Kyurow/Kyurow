@@ -7,7 +7,7 @@
 <p align="center"> Here's my skills on Information Technology </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,css,html,nextjs,react,python,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=kali,css,html,nextjs,react,python,postgres,docker, laravel" />
   </a>
 </p>
 
